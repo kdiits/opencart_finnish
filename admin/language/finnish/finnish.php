@@ -100,5 +100,4 @@ $_['error_upload_6'] = 'Varoitus: V&auml;liaikainen kansio puuttuu!';
 $_['error_upload_7'] = 'Varoitus: Tiedoston tallentaminen ep&auml;onnistui!';
 $_['error_upload_8'] = 'Varoitus: Tiedoston p&auml;&auml;te esti l&auml;hett&auml;misen!';
 $_['error_upload_999'] = 'Varoitus: Virhekoodia ei saatavilla!';
-
 ?>
