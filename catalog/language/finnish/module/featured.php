@@ -1,6 +1,6 @@
 <?php
 // Heading 
-$_['heading_title'] = 'Suositellut';
+$_['heading_title'] = 'Suosituimmat';
 
 // Text
 $_['text_reviews']  = 'Perustuu %s arvosteluun.'; 
