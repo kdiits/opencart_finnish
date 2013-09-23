@@ -101,20 +101,4 @@ $_['error_upload_7'] = 'Varoitus: Tiedoston tallentaminen ep&auml;onnistui!';
 $_['error_upload_8'] = 'Varoitus: Tiedoston p&auml;&auml;te esti l&auml;hett&auml;misen!';
 $_['error_upload_999'] = 'Varoitus: Virhekoodia ei saatavilla!';
 
-?>          = 'Musiikki';
-
-//columns
-
-$_['column_customer']         = 'Asiakas';
-
-
-// Error
-$_['error_upload_1']          = 'Varoitus: L&auml;hetetty tiedosto on suurempi kuin asetustiedostossa (php.ini) m&auml;&auml;ritelty maksimi tiedoston koko (upload_max_filesize)!';
-$_['error_upload_2']          = 'Varoitus: L&auml;hetetty tiedosto on suurempi kuin HTML-lomakkeella m&auml;&auml;ritelty maksimi tiedoston koko (MAX_FILE_SIZE)!';
-$_['error_upload_3']          = 'Varoitus: L&auml;hetetty tiedosto onnistuttiin l&auml;hett&auml;m&auml;&auml;n vain osittain!';
-$_['error_upload_4']          = 'Varoitus: Yht&auml;&auml;n tiedosto ei l&auml;hetetty!';
-$_['error_upload_6']          = 'Varoitus: V&auml;liaikainen kansio puuttuu!';
-$_['error_upload_7']          = 'Varoitus: Tiedoston tallentaminen ep&auml;onnistui!';
-$_['error_upload_8']          = 'Varoitus: Tiedoston p&auml;&auml;te esti l&auml;hett&auml;misen!';
-$_['error_upload_999']        = 'Varoitus: Virhekoodia ei saatavilla!';
 ?>
