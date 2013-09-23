@@ -1,7 +1,7 @@
 <?php
 // Text
-$_['text_title']           = 'Credit or Debit Card (Processed securely by PayPal)';
-$_['text_credit_card']     = 'Credit Card Details';
+$_['text_title']           = 'Luottokortti / Pankkikortti (Processed securely by PayPal)';
+$_['text_credit_card']     = 'Luottokortin tiedot';
 $_['text_start_date']      = '(if available)';
 $_['text_issue']           = '(for Maestro and Solo cards only)';
 $_['text_wait']            = 'Please wait!';

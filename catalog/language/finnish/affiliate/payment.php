@@ -3,23 +3,23 @@
 $_['heading_title']             = 'Payment Method';
 
 // Text
-$_['text_account']              = 'Account';
-$_['text_payment']              = 'Payment';
-$_['text_your_payment']         = 'Payment Information';
-$_['text_your_password']        = 'Your Password';
-$_['text_cheque']               = 'Cheque';
+$_['text_account']              = 'K&auml;ytt&auml;j&auml;tunnus';
+$_['text_payment']              = 'Maksu';
+$_['text_your_payment']         = 'Maksutiedot';
+$_['text_your_password']        = 'Salasana';
+$_['text_cheque']               = 'Sekki';
 $_['text_paypal']               = 'PayPal';
-$_['text_bank']                 = 'Bank Transfer';
-$_['text_success']              = 'Success: Your account has been successfully updated.';
+$_['text_bank']                 = 'Pankkisiirto';
+$_['text_success']              = 'Vahvistus: K&auml;ytt&auml;jatunnus on p&auml;ivitetty onnistuneesti.';
 
 // Entry
-$_['entry_tax']                 = 'Tax ID:';
-$_['entry_payment']             = 'Payment Method:';
-$_['entry_cheque']              = 'Cheque Payee Name:';
-$_['entry_paypal']              = 'PayPal Email Account:';
-$_['entry_bank_name']           = 'Bank Name:';
-$_['entry_bank_branch_number']  = 'ABA/BSB number (Branch Number):';
-$_['entry_bank_swift_code']     = 'SWIFT Code:';
-$_['entry_bank_account_name']   = 'Account Name:';
-$_['entry_bank_account_number'] = 'Account Number:';
+$_['entry_tax']                 = 'Veroluokka:';
+$_['entry_payment']             = 'Maksutapa:';
+$_['entry_cheque']              = 'Sekkimaksun saaja:';
+$_['entry_paypal']              = 'PayPal S&auml;hk&ouml;postiosoite:';
+$_['entry_bank_name']           = 'Pankin nimi:';
+$_['entry_bank_branch_number']  = 'ABA/BSB numero (konttorin numero):';
+$_['entry_bank_swift_code']     = 'SWIFT Koodi:';
+$_['entry_bank_account_name']   = 'Tilin nimi:';
+$_['entry_bank_account_number'] = 'Tilin numero:';
 ?>

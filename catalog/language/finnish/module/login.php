@@ -8,5 +8,5 @@ $_['entry_password']			= 'Salasana:';
 
 // Buttons
 $_['button_logout']			= 'Kirjaudu ulos';
-$_['button_create']			= 'Luo tili';
+$_['button_create']			= 'Luo k&auml;ytt&auml;j&auml;tunnus';
 ?>

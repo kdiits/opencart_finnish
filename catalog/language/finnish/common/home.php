@@ -3,5 +3,5 @@
 $_['heading_title'] = '%s';
 
 // Text
-$_['text_latest']   = 'Viimeisimm&auml;t tuotteet';
+$_['text_latest']   = 'Uusimmat tuotteet';
 ?>

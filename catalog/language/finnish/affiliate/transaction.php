@@ -1,15 +1,15 @@
 <?php
 // Heading 
-$_['heading_title']      = 'Your Transactions';
+$_['heading_title']      = 'Tapahtumat';
 
 // Column
-$_['column_date_added']  = 'Date Added';
-$_['column_description'] = 'Description';
-$_['column_amount']      = 'Amount (%s)';
+$_['column_date_added']  = 'Lis&auml;tty';
+$_['column_description'] = 'Kuvaus';
+$_['column_amount']      = 'M&auml;&auml;r&auml; (%s)';
 
 // Text
-$_['text_account']       = 'Account';
-$_['text_transaction']   = 'Your Transactions';
-$_['text_balance']       = 'Your current balance is:';
-$_['text_empty']         = 'You do not have any transactions!';
+$_['text_account']       = 'K&auml;ytt&auml;j&auml;tunnus';
+$_['text_transaction']   = 'Tapahtumat';
+$_['text_balance']       = 'Saldo:';
+$_['text_empty']         = 'Teill&auml; ei ole kirjattuja tapahtumia!';
 ?>

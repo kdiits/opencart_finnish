@@ -3,13 +3,13 @@
 $_['heading_title']      = 'Palkintopisteesi';
 
 // Column
-$_['column_date_added']  = 'Pvm jolloin lisätty';
+$_['column_date_added']  = 'P&auml;iv&auml;tty';
 $_['column_description'] = 'Kuvaus';
 $_['column_points']      = 'Pisteet';
 
 // Text
-$_['text_account']       = 'Tili';
+$_['text_account']       = 'K&auml;ytt&auml;j&auml;tunnus';
 $_['text_reward']        = 'Palkintopisteet';
-$_['text_total']         = 'Sinulla on yhteensä pisteitä:';
-$_['text_empty']         = 'Sinulla ei ole yhtään palkintopisteitä!';
+$_['text_total']         = 'Sinulla on yhteens&auml; pisteit&auml;:';
+$_['text_empty']         = 'Sinulla ei ole yht&auml;&auml;n palkintopisteit&auml;!';
 ?>

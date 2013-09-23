@@ -3,19 +3,19 @@
 $_['heading_title']                = 'Kirjautuminen';
 
 // Text
-$_['text_account']                 = 'Tili';
+$_['text_account']                 = 'K&auml;ytt&auml;j&auml;tunnus';
 $_['text_login']                   = 'Kirjaudu';
-$_['text_new_customer']            = 'Uusi asiakas';
-$_['text_register']                = 'Luo asiakastili';
-$_['text_register_account']        = 'Luomalla asiakastilin voit mm. tehdä ostoksesi nopeammin, pysyä ajantasalla tilauksiesi tilasta, ja voit tarkastella aikaisemmin tekemisiäsi tilauksia.';
+$_['text_new_customer']            = 'Rekister&ouml;ityminen';
+$_['text_register']                = 'Rekister&ouml;idy';
+$_['text_register_account']        = 'Rekister&ouml;itym&auml;ll&auml; voit tehd&auml; nopeammin ostoksia, seurata kirjaamiasi tilauksia sek&auml; tarkastella tilaushistoriaasi.';
 $_['text_returning_customer']      = 'Olen jo asiakas';
-$_['text_i_am_returning_customer'] = 'Kirjaudu tilillesi';
-$_['text_forgotten']               = 'Salasana unohtunut';
+$_['text_i_am_returning_customer'] = 'Kirjaudu';
+$_['text_forgotten']               = 'Uusi salasana';
 
 // Entry
-$_['entry_email']                  = 'Sähköposti:';
+$_['entry_email']                  = 'S&auml;hk&ouml;postiosoite:';
 $_['entry_password']               = 'Salasana:';
 
 // Error
-$_['error_login']                  = 'Virhe: Sähköpostiosoite ja/tai salasana on väärä.';
+$_['error_login']                  = 'Huomautus: S&auml;hk&ouml;postiosoite ja/tai salasana on virheellinen.';
 ?>

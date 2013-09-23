@@ -1,39 +1,39 @@
 <?php
 // Heading  
-$_['heading_title']			= 'Mass Discount';
+$_['heading_title']			= 'M&auml;&auml;r&auml; alennus';
 
 // Text
 $_['text_success']			= 'Success: You have modified discounts!';
-$_['text_percent']			= 'Percentage';
-$_['text_amount']			= 'Fixed Amount';
-$_['text_copy']				= 'Copy';
+$_['text_percent']			= 'Prosenttim&auml;&auml;r&auml;';
+$_['text_amount']			= 'Kiint&auml; m&auml;&auml;r&auml;';
+$_['text_copy']				= 'Kopioi';
 
 // Button
-$_['button_clear']			= 'Clear All';
+$_['button_clear']			= 'Tyhjenn&auml; kaikki';
 
 // Column
-$_['column_name']			= 'Discount Name';
-$_['column_type']			= 'Type';
-$_['column_date_start']		= 'Date Start';
-$_['column_date_end']		= 'Date End';
-$_['column_status']			= 'Status';
-$_['column_date_added']		= 'Date Added';
-$_['column_action']			= 'Action';
+$_['column_name']			= 'Alennusnimike';
+$_['column_type']			= 'Tyyppi';
+$_['column_date_start']		= 'Alkaa (pvm)';
+$_['column_date_end']		= 'P&auml;&auml;ttyy (pvm)';
+$_['column_status']			= 'Tila';
+$_['column_date_added']		= 'P&auml;iv&auml;m&auml;&auml;r&auml; lis&auml;tty';
+$_['column_action']			= 'Toiminta';
 
 // Entry
-$_['entry_name']			= 'Discount Name:';
-$_['entry_quantity']		= 'Quantity:';
-$_['entry_priority']		= 'Priority:';
-$_['entry_customer_group']	= 'Customer Group:';
-$_['entry_type']			= 'Type:<br /><span class="help">Percentage or Fixed Amount</span>';
-$_['entry_discount']		= 'Discount:';
-$_['entry_category']		= 'Category:<br /><span class="help">Choose all products under selected category.</span>';
-$_['entry_product']			= 'Products:<br /><span class="help">Choose specific products the discount will apply to. Select no products to apply discount to entire cart.</span>';
-$_['entry_date_start']		= 'Date Start:';
-$_['entry_date_end']		= 'Date End:';
-$_['entry_status']			= 'Status:';
+$_['entry_name']			= 'Alennusnimike:';
+$_['entry_quantity']		= 'M&auml;&auml;r&auml;:';
+$_['entry_priority']		= 'Tavoite:';
+$_['entry_customer_group']	= 'Asiakasryhm&auml;:';
+$_['entry_type']			= 'Malli:<br /><span class="help">Prosenttim&auml;&auml;r&auml;&auml; tai kiinte&auml;&auml; m&auml;&auml;r&auml;&auml;</span>';
+$_['entry_discount']		= 'Alennus:';
+$_['entry_category']		= 'Ryhm&auml;:<br /><span class="help">Valitse tuotteet aktivoituun.</span>';
+$_['entry_product']			= 'Tuotteet:<br /><span class="help">Valitse tuotteet, jota alennus koskee. Voit valita koskeeko alennus koko ostoskoria.</span>';
+$_['entry_date_start']		= 'Alkaa (pvm):';
+$_['entry_date_end']		= 'P&auml;&auml;ttyy (pvm):';
+$_['entry_status']			= 'Tila:';
 
 // Error
-$_['error_permission']		= 'Warning: You do not have permission to modify discounts!';
-$_['error_name']			= 'Discount Name must be between 3 and 128 characters!';
+$_['error_permission']		= 'Varoitus: Sinulla ei ole oikeutta muokata alennusnimikkeit&auml;!';
+$_['error_name']			= 'Alennusnimikkeen on oltava v&auml;hint&auml;&auml;n 3 ja enint&auml;&auml;n 128 merkki&auml;!';
 ?>

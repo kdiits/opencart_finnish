@@ -1,25 +1,25 @@
 <?php
 // Heading
-$_['heading_title']     = 'Product Price List';
+$_['heading_title']     = 'Tuote hinnasto';
 
 // Header Bar Title
-$_['text_all_products'] = 'All Products';
+$_['text_all_products'] = 'Kaikki tuotteet';
 
 // Text
-$_['text_limit']        = 'Products per Page:';
-$_['text_empty']        = 'There are no products to list.';
-$_['text_stars']        = '%s out of 5 Stars!';
-$_['text_catagory']     = 'Category:';
-$_['text_sort']         = 'Sort By:';
-$_['text_name_asc']     = 'Name A - Z';
-$_['text_name_desc']    = 'Name Z - A';
-$_['text_price_asc']    = 'Price Low &gt; High';
-$_['text_price_desc']   = 'Price High &lt; Low';
-$_['text_rating_asc']   = 'Rating Lowest'; 
-$_['text_rating_desc']  = 'Rating Highest';
-$_['text_qty']          = 'Qty: ';
-$_['text_addcart']      = 'Add to Cart';
-$_['text_print']        = 'Print';
-$_['text_notfound']     = 'Product Not Found!';
-$_['text_pricelist']    = 'Price List';
+$_['text_limit']        = 'Tuotteita sivulla:';
+$_['text_empty']        = 'Ei ole tuoteita.';
+$_['text_stars']        = '%s / 5 t&auml;hte&auml;!';
+$_['text_catagory']     = 'Ryhm&auml;t:';
+$_['text_sort']         = 'Lajiteltu:';
+$_['text_name_asc']     = 'Tuottenimet A - Z';
+$_['text_name_desc']    = 'Tuotenimet Z - A';
+$_['text_price_asc']    = 'Edullisin tuote ensin';
+$_['text_price_desc']   = 'Kallein tuote ensin';
+$_['text_rating_asc']   = 'Alhaisin luokitus ensin';
+$_['text_rating_desc']  = 'Ylin luokitus ensin';
+$_['text_qty']          = 'M&auml;&auml;r&auml;: ';
+$_['text_addcart']      = 'Lis&auml;&auml; astoskoriin';
+$_['text_print']        = 'Tulosta';
+$_['text_notfound']     = 'Tuotetta ei l&ouml;ydy!';
+$_['text_pricelist']    = 'Tuote hinnasto';
 ?>

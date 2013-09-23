@@ -1,3 +1,3 @@
 <?php
-$_['text_handling'] = 'Käsittelykulut';
+$_['text_handling'] = 'K&auml;sittelykulut';
 ?>

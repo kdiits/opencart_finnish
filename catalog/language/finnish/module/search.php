@@ -3,6 +3,6 @@
 $_['heading_title'] = 'Pikahaku';
 
 // Text
-$_['text_keywords'] = 'hakusanat';
-$_['text_advanced'] = 'Edistynyt haku';
+$_['text_keywords'] = 'Hakusanat';
+$_['text_advanced'] = 'Tarkennettu haku';
 ?>

@@ -1,16 +1,16 @@
 <?php
 // Heading 
-$_['heading_title']    = 'Affiliate';
+$_['heading_title']    = 'Sopimusasiakas';
 
 // Text
-$_['text_register']    = 'Register';
-$_['text_login']       = 'Login';
-$_['text_logout']      = 'Logout';
-$_['text_forgotten']   = 'Forgotten Password';
-$_['text_account']     = 'My Account';
-$_['text_edit']        = 'Edit Account';
-$_['text_password']    = 'Password';
-$_['text_payment']     = 'Payment Options';
-$_['text_tracking']    = 'Affiliate Tracking';
-$_['text_transaction'] = 'Transactions';
+$_['text_register']    = 'Rekister&ouml;idy';
+$_['text_login']       = 'Kirjaudu';
+$_['text_logout']      = 'Kirjaudu ulos';
+$_['text_forgetten']   = 'Tilaa uusi salasana';
+$_['text_account']     = 'Asiakastili';
+$_['text_edit']        = 'Muokkaa asiakastili&auml;';
+$_['text_password']    = 'Salasana';
+$_['text_payment']     = 'Maksuvaihtoehdot';
+$_['text_tracking']    = 'Seuranta';
+$_['text_transaction'] = 'Tapahtumat';
 ?>

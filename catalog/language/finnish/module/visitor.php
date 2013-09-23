@@ -8,5 +8,5 @@ $_['text_week']		= 'Viikossa';
 $_['text_month']	= 'Kuukaudessa';
 $_['text_year']		= 'Vuodessa';
 $_['text_all']		= 'Yhteens&auml;';
-$_['text_online']	= 'Online';
+$_['text_online']	= 'Kirjautuneena';
 ?>

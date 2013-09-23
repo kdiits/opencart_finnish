@@ -1,9 +1,9 @@
 <?php
 // Heading 
-$_['heading_title'] = 'Account Logout';
+$_['heading_title'] = 'Kirjaudu ulos';
 
 // Text
-$_['text_message']  = '<p>You have been logged off your account. It is now safe to leave the computer.</p><p>Your shopping cart has been saved, the items inside it will be restored whenever you log back into your account.</p>';
-$_['text_account']  = 'Account';
-$_['text_logout']   = 'Logout';
+$_['text_message']  = '<p>Olet kirjautunut ulos verkkokaupasta.</p><p>Ostoskorisi on tallennettu ja sen sis&auml;lt&ouml; on k&auml;ytett&auml;viss&auml; kun kirjaudut takaisin verkkokauppaan.</p>';
+$_['text_account']  = 'K&auml;ytt&auml;jatunnus';
+$_['text_logout']   = 'Poistu';
 ?>

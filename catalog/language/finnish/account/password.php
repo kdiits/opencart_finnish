@@ -3,15 +3,15 @@
 $_['heading_title']  = 'Vaihda salasana';
 
 // Text
-$_['text_account']   = 'Tili';
+$_['text_account']   = 'K&auml;ytt&auml;j&auml;tunnus';
 $_['text_password']  = 'Salasanasi';
-$_['text_success']   = 'Onnistui: Salasanasi on nyt vaihdettu.';
+$_['text_success']   = 'Vahvistus: Salasana on p&auml;ivitetty onnistuneesti.';
 
 // Entry
 $_['entry_password'] = 'Salasana:';
 $_['entry_confirm']  = 'Vahvista salasana:';
 
 // Error
-$_['error_password'] = 'Salasanan täytyy olla 4-20 merkkiä pitkä!';
-$_['error_confirm']  = 'Salasanan vahvistus ei vastaa salasanaa!';
+$_['error_password'] = 'Huomautus: Salasanan on oltava v&auml;hint&auml;&auml;n 4 ja enint&auml;&auml;n 20 merkki&auml; pitk&auml;!';
+$_['error_confirm']  = 'Huomautus: Salasanan vahvistus ei vastaa salasanaa!';
 ?>

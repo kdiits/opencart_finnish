@@ -12,6 +12,6 @@ $_['text_shipping_methods'] = 'Valitse haluttu toimitustapa.';
 $_['text_comments']         = 'Anna lis&auml;tietoja';
 
 // Error
-$_['error_shipping']        = 'Virhe: Toimitustapa pit&auml;&auml; valita!';
-$_['error_no_shipping']     = 'Virhe: Toimitustapoja ei ole tarjolla. Ota <a href="index.php?route=information/contact">yhtett&auml;</a> jatkaaksesi!';
+$_['error_shipping']        = 'Huomautus: Valitse toimitustapa!';
+$_['error_no_shipping']     = 'Huomautus: Toimitustapa ei ole k&auml;yt&ouml;ss&auml;. Ota <a href="index.php?route=information/contact">yhtett&auml;</a> jatkaaksesi!';
 ?>

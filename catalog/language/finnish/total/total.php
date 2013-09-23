@@ -1,3 +1,3 @@
 <?php
-$_['text_total'] = 'Yhteensä';
+$_['text_total'] = 'Yhteens&auml;';
 ?>

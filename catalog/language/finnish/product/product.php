@@ -1,7 +1,7 @@
 <?php
 // Text
 $_['text_search']       = 'Etsi';
-$_['text_brand']        = 'Merkki';
+$_['text_brand']        = 'Tavaramerkki';
 $_['text_manufacturer'] = 'Valmistaja:';
 $_['text_model']        = 'Tuotekoodi:';
 $_['text_reward']       = 'Palkintopisteet:'; 

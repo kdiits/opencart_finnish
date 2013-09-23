@@ -1,14 +1,14 @@
 <?php
 // Heading 
-$_['heading_title'] = 'Käytä alennuskuponki';
+$_['heading_title'] = 'K&auml;yt&auml; tarjouskoodi';
 
 // Text
-$_['text_coupon']   = 'Kuponki(%s)';
-$_['text_success']  = 'Onnistui: Alennuskuponki on huomioitu!';
+$_['text_coupon']   = 'Tarjous(%s)';
+$_['text_success']  = 'Vahvistus: Tarjouskoodi on huomioitu!';
 
 // Entry
-$_['entry_coupon']  = 'Kirjoita kupongin koodi:';
+$_['entry_coupon']  = 'Kirjoita tarjouskoodi:';
 
 // Error
-$_['error_coupon']  = 'Virhe: Kuponki on virheellinen tai se on jo käytetty!';
+$_['error_coupon']  = 'Huomautus: Tarjouskoodi on virheellinen tai se on jo k&auml;ytetty!';
 ?>

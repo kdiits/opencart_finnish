@@ -1,24 +1,24 @@
 <?php
 // Heading 
-$_['heading_title']     = 'Tilin tiedot';
+$_['heading_title']     = 'K&auml;ytt&auml;j&auml;tunnuksen tiedot';
 
 // Text
-$_['text_account']      = 'Tili';
+$_['text_account']      = 'K&auml;ytt&auml;j&auml;tunnus';
 $_['text_edit']         = 'Muokkaa tietoja';
-$_['text_your_details'] = 'Tietosi';
-$_['text_success']      = 'Onnistui: Tiedot on päivitetty.';
+$_['text_your_details'] = 'Tiedot';
+$_['text_success']      = 'Onnistui: Tiedot on p&auml;ivitetty.';
 
 // Entry
 $_['entry_firstname']  = 'Etunimi:';
 $_['entry_lastname']   = 'Sukunimi:';
-$_['entry_email']      = 'Sähköposti:';
+$_['entry_email']      = 'S&auml;hk&ouml;posti:';
 $_['entry_telephone']  = 'Puhelin:';
 $_['entry_fax']        = 'Faksi:';
 
 // Error
-$_['error_exists']                   = 'Virhe: Sähköpostiosoitteesi on jo rekisteröity!';
-$_['error_firstname']                = 'Etunimen oltava 1 - 32 merkkiä!';
-$_['error_lastname']                 = 'Sukunimen oltava 1 - 32 merkkiä!';
-$_['error_email']                    = 'Sähköpostiosoite on virheellinen!';
-$_['error_telephone']                = 'Puhelinnumeron oltava 7 numeroa!';
+$_['error_exists']     = 'Huomautus: S&auml;hk&ouml;postiosoitteesi on jo rekister&ouml;ity!';
+$_['error_firstname']  = 'Huomautus: Etunimen on oltava v&auml;hint&auml;&auml;n 1 ja enint&auml;&auml;n 32 merkki&auml; pitk&auml;!';
+$_['error_lastname']   = 'Huomautus: Sukunimen on oltava v&auml;hint&auml;&auml;n 1 ja enint&auml;&auml;n 32 merkki&auml; pitk&auml;!';
+$_['error_email']      = 'Huomautus: S&auml;hk&ouml;postiosoite on virheellinen!';
+$_['error_telephone']  = 'Huomautus: Puhelinnumeron on oltava 7 numeroa!';
 ?>

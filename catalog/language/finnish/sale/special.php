@@ -1,38 +1,38 @@
 <?php
 // Heading  
-$_['heading_title']			= 'Mass Special';
+$_['heading_title']			= 'Kiinte&auml; tarjous';
 
 // Text
-$_['text_success']			= 'Success: You have modified specials!';
-$_['text_percent']			= 'Percentage';
-$_['text_amount']			= 'Fixed Amount';
-$_['text_copy']				= 'Copy';
+$_['text_success']			= 'Suoritettu: Olet muokannut erikoistarjousta!Success: You have modified specials!';
+$_['text_percent']			= 'Prosentti';
+$_['text_amount']			= 'Kiint&auml; m&auml;&auml;r&auml;';
+$_['text_copy']				= 'Kopioi';
 
 // Button
-$_['button_clear']			= 'Clear All';
+$_['button_clear']			= 'Tyhjenn&auml; kaikki';
 
 // Column
-$_['column_name']			= 'Special Name';
-$_['column_type']			= 'Type';
-$_['column_date_start']		= 'Date Start';
-$_['column_date_end']		= 'Date End';
-$_['column_status']			= 'Status';
-$_['column_date_added']		= 'Date Added';
-$_['column_action']			= 'Action';
+$_['column_name']			= 'Erikoistarjous';
+$_['column_type']			= 'Tyyppi';
+$_['column_date_start']		= 'Alkamis (pvm)';
+$_['column_date_end']		= 'P&auml;&auml;ttymis (pvm)';
+$_['column_status']			= 'Tila';
+$_['column_date_added']		= 'P&auml;iv&auml;ys';
+$_['column_action']			= 'Voimassa';
 
 // Entry
-$_['entry_name']			= 'Special Name:';
-$_['entry_priority']		= 'Priority:';
-$_['entry_customer_group']	= 'Customer Group:';
-$_['entry_type']			= 'Type:<br /><span class="help">Percentage or Fixed Amount</span>';
-$_['entry_discount']		= 'Discount:';
-$_['entry_category']		= 'Category:<br /><span class="help">Choose all products under selected category.</span>';
-$_['entry_product']			= 'Products:<br /><span class="help">Choose specific products the special will apply to. Select no products to apply special to entire cart.</span>';
-$_['entry_date_start']		= 'Date Start:';
-$_['entry_date_end']		= 'Date End:';
-$_['entry_status']			= 'Status:';
+$_['entry_name']			= 'Erikoistarjous:';
+$_['entry_priority']		= 'Etuus:';
+$_['entry_customer_group']	= 'Asiakasryhm&auml;:';
+$_['entry_type']			= 'M&auml;&auml;ritell&auml;:<br /><span class="help">Prosenttim&auml;&auml;r&auml;&auml; tai kiinte&auml;&auml; m&auml;&auml;r&auml;&auml;</span>';
+$_['entry_discount']		= 'Alennus:';
+$_['entry_category']		= 'Ryhm&auml;:<br /><span class="help">Valitse kaikki tuotteet aktivoidusta ryhm&auml;st&auml;.</span>';
+$_['entry_product']			= 'Tuotteet:<br /><span class="help">Valitse erityiset tuotteet joita alennus koskee. Tarjous koskee koko ostoskoria mik&auml;li et m&auml;&auml;rittele tuotteita.</span>';
+$_['entry_date_start']		= 'Alkamis (pvm):';
+$_['entry_date_end']		= 'P&auml;&auml;ttymis (pvm):';
+$_['entry_status']			= 'Tila:';
 
 // Error
-$_['error_permission']		= 'Warning: You do not have permission to modify specials!';
-$_['error_name']			= 'Special Name must be between 3 and 128 characters!';
+$_['error_permission']		= 'Huomautus: Teill&auml; ei ole oikeutta muokata erikoistarjouksia!';
+$_['error_name']			= 'Huomautus: Erikoistarjouksen nimi on oltava v&auml;hint&auml;&auml;n 3 ja enint&auml;&auml;n 128 merkki&auml; pitk&auml;!';
 ?>

@@ -18,6 +18,6 @@ $_['text_weight']       = 'Paino';
 $_['text_dimension']    = 'Mitat (P x L x K)';
 $_['text_remove']       = 'Poista';
 $_['text_compare']      = 'Tuotevertailu (%s)';
-$_['text_success']      = 'Onnistui: Tuote <a href="%s">%s</a> lisätty <a href="%s">vertailuun</a>!';
-$_['text_empty']        = 'Et ole valinnut yhtään tuotetta vaertailuun.';
+$_['text_success']      = 'Onnistui: Tuote <a href="%s">%s</a> lis&auml;tty <a href="%s">vertailuun</a>!';
+$_['text_empty']        = 'Et ole valinnut yht&auml;&auml;n tuotetta vaertailuun.';
 ?>

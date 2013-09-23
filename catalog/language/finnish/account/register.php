@@ -1,26 +1,27 @@
 <?php
 // Heading 
-$_['heading_title']        = 'Rekisteröi tili';
+$_['heading_title']        = 'Rekister&ouml;ityminen';
 
 // Text
-$_['text_account']         = 'Tili';
-$_['text_register']        = 'Rekisteröi';
-$_['text_account_already'] = 'Jos sinulla on jo tili meillä, ole hyvä ja kirjaudu <a href="%s">sisäänkirjautumis sivulla</a>.';
-$_['text_your_details']    = 'Henkilökohtaiset tietosi';
-$_['text_your_address']    = 'Osoitteesi';
+$_['text_account']         = 'K&auml;ytt&auml;j&auml;tunnus';
+$_['text_register']        = 'Rekister&ouml;i';
+$_['text_account_already'] = 'Jos olet jo register&ouml;itynyt, ole hyv&auml; ja kirjaudu <a href="%s">verkkokauppaan</a>.';
+$_['text_your_details']    = 'Henkil&ouml;tiedot';
+$_['text_your_address']    = 'Osoitetiedot';
 $_['text_newsletter']      = 'Uutiskirje';
-$_['text_your_password']   = 'Salasanasi';
-$_['text_agree']           = 'Olen lukenut ja hyväksyn <a class="fancybox" href="%s" alt="%s"><b>%s</b></a>';
+$_['text_your_password']   = 'Salasana';
+$_['text_agree']           = 'Olen lukenut ja hyv&auml;ksyn <a class="fancybox" href="%s" alt="%s"><b>%s</b></a>';
 
 // Entry
 $_['entry_firstname']      = 'Etunimi:';
 $_['entry_lastname']       = 'Sukunimi:';
-$_['entry_email']          = 'Sähköposti:';
-$_['entry_telephone']      = 'Puhelin:';
-$_['entry_fax']            = 'Fax:';
-$_['entry_company']        = 'Yhtiö:';
-$_['entry_address_1']      = 'Osoite 1:';
-$_['entry_address_2']      = 'Osoite 2:';
+$_['entry_email']          = 'S&auml;hk&ouml;postiosoite:';
+$_['entry_telephone']      = 'Puhelin numero:';
+$_['entry_fax']            = 'Faksi:';
+$_['entry_company']        = 'Yhti&ouml;:';
+$_['entry_company_id']     = 'Y-tunnus:';
+$_['entry_address_1']      = 'Katuosoite:';
+$_['entry_address_2']      = 'Postilokero PL:';
 $_['entry_postcode']       = 'Postinumero:';
 $_['entry_city']           = 'Kaupunki:';
 $_['entry_country']        = 'Maa:';
@@ -30,17 +31,17 @@ $_['entry_password']       = 'Salasana:';
 $_['entry_confirm']        = 'Vahvista salasana:';
 
 // Error
-$_['error_exists']         = 'Varoitus: sähköpostiosoite on jo rekisteröity!';
-$_['error_firstname']      = 'Etunimen täytyy olla 1 - 32 merkkiä pitkä!';
-$_['error_lastname']       = 'Sukunimen täytyy olla 1 - 32 merkkiä pitkä!';
-$_['error_email']          = 'Sähköpostisoite ei ole oikeanlainen!';
-$_['error_telephone']      = 'Puhelinnumeron täytyy olla 3- 32 merkkiä pitkä!';
-$_['error_password']       = 'Salasanan täytyy olla 4 - 20 merkkiä pitkä!';
-$_['error_confirm']        = 'Salasanan vahvistus ei vastaa annettua koodia!';
-$_['error_address_1']      = 'Osoite täytyy olla 3 - 128 merkkiä pitkä!';
-$_['error_city']           = 'Kaupungin nimen täytyy olla 2 - 128 merkkiä pitkä!';
-$_['error_postcode']       = 'Postinumero täytyy olla 1 - 32 merkkiä pitkä!';
-$_['error_country']        = 'Valitse maa!';
-$_['error_zone']           = 'Valitse alue / maakunta!';
-$_['error_agree']          = 'Varoitus: Sinun täytyy hyväksyä %s!';
+$_['error_exists']         = 'Huomautus: S&auml;hk&ouml;postiosoite on jo rekister&ouml;ity!';
+$_['error_firstname']      = 'Huomautus: Etunimen on oltava v&auml;hint&auml;&auml;n 1 ja enint&auml;&auml;n 32 merkki&auml; pitk&auml;!';
+$_['error_lastname']       = 'Huomautus: Sukunimen on oltava v&auml;hint&auml;&auml;n 1 ja enint&auml;&auml;n 32 merkki&auml; pitk&auml;!';
+$_['error_email']          = 'Huomautus: S&auml;hk&ouml;postiosoite on virheellinen!';
+$_['error_telephone']      = 'Huomautus: Puhelinnumeron on oltava v&auml;hint&auml;&auml;n 4 ja enint&auml;&auml;n 20 merkki&auml; pitk&auml;!';
+$_['error_password']       = 'Huomautus: Salasana on oltava v&auml;hint&auml;&auml;n 4 ja enint&auml;&auml;n 20 merkki&auml; pitk&auml;!';
+$_['error_confirm']        = 'Huomautus: Salasanan vahvistus ei vastaa salasanaa!';
+$_['error_address_1']      = 'Huomautus: Katuosoitteen on oltava v&auml;hint&auml;&auml;n 3 ja enint&auml;&auml;n 128 merkki&auml; pitk&auml;!';
+$_['error_city']           = 'Huomautus: Kaupungin nimen on oltava v&auml;hint&auml;&auml;n 2 ja enint&auml;&auml;n 128 merkki&auml; pitk&auml;!';
+$_['error_postcode']       = 'Huomautus: Postinumeron on oltava v&auml;hint&auml;&auml;n 1 ja enint&auml;&auml;n 32 merkki&auml; pitk&auml;!';
+$_['error_country']        = 'Huomautus: Valitse maa!';
+$_['error_zone']           = 'Huomautus: Valitse alue / maakunta!';
+$_['error_agree']          = 'Huomautus: Teid&auml;n on hyv&auml;ksy&auml; yksityisyyssuojan ehdot (%s)!!';
 ?>

@@ -1,6 +1,6 @@
 <?php
 // Entry
-$_['entry_postcode'] = 'Post Code:';
-$_['entry_country']  = 'Country:';
-$_['entry_zone']     = 'Region / State:';
+$_['entry_postcode'] = 'Postinumero:';
+$_['entry_country']  = 'Maa:';
+$_['entry_zone']     = 'Alue / Maakunta:';
 ?>

@@ -1,4 +1,4 @@
 <?php
 // Heading 
-$_['heading_title'] = 'Youtube Video List'; 
+$_['heading_title'] = 'Youtube videolista'; 
 ?>

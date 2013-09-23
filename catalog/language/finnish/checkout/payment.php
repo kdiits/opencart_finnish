@@ -16,10 +16,10 @@ $_['text_coupon']          = 'Anna alennuskoodi ja alennus p&auml;ivittyy tilauk
 $_['text_success']         = 'Alennuskoodi onnistuneesti k&auml;ytetty!';
 
 // Entry
-$_['entry_coupon']         = 'Alennuskoodi:';
+$_['entry_coupon']         = 'Tarjouskoodi:';
 
 // Error
-$_['error_payment']        = 'Virhe: Maksutapa pit&auml;&auml; valita!';
-$_['error_agree']          = 'Virhe: %s pit&auml;&auml; hyv&auml;ksy&auml;!';
-$_['error_coupon']         = 'Virhe: Alennuskoodi on v&auml;&auml;r&auml;, vanhentunut tai sen k&auml;ytt&ouml;raja on t&auml;ynn&auml;!';
+$_['error_payment']        = 'Huomautus: Valitse maksutapa!';
+$_['error_agree']          = 'Huomautus: %s on hyv&auml;ksytt&auml;v&auml;!';
+$_['error_coupon']         = 'Huomautus: Tarjouskoodi on virheellinen, vanhentunut tai se on k&auml;ytetty!';
 ?>

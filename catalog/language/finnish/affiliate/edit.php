@@ -10,29 +10,29 @@ $_['text_your_address'] = 'Your Address';
 $_['text_success']      = 'Success: Your account has been successfully updated.';
 
 // Entry
-$_['entry_firstname']   = 'First Name:';
-$_['entry_lastname']    = 'Last Name:';
-$_['entry_email']       = 'E-Mail:';
-$_['entry_telephone']   = 'Telephone:';
-$_['entry_fax']         = 'Fax:';
-$_['entry_company']     = 'Company:';
-$_['entry_website']     = 'Web Site:';
-$_['entry_address_1']   = 'Address 1:';
-$_['entry_address_2']   = 'Address 2:';
-$_['entry_postcode']    = 'Post Code:';
-$_['entry_city']        = 'City:';
-$_['entry_country']     = 'Country:';
-$_['entry_zone']        = 'Region / State:';
+$_['entry_firstname']   = 'Etunimi:';
+$_['entry_lastname']    = 'Sukunimi:';
+$_['entry_email']       = 'S&auml;hk&ouml;postiosoite:';
+$_['entry_telephone']   = 'Puhelinnumero:';
+$_['entry_fax']         = 'Faksi:';
+$_['entry_company']     = 'Yritys:';
+$_['entry_website']     = 'Kotisivu:';
+$_['entry_address_1']   = 'Katuosoite:';
+$_['entry_address_2']   = 'Postilokero PL:';
+$_['entry_postcode']    = 'Postinumero:';
+$_['entry_city']        = 'Kaupunki:';
+$_['entry_country']     = 'Maa:';
+$_['entry_zone']        = 'Alue / maakunta:';
 
 // Error
-$_['error_exists']      = 'Warning: E-Mail address is already registered!';
-$_['error_firstname']   = 'First Name must be between 1 and 32 characters!';
-$_['error_lastname']    = 'Last Name must be between 1 and 32 characters!';
-$_['error_email']       = 'E-Mail Address does not appear to be valid!';
-$_['error_telephone']   = 'Telephone must be between 3 and 32 characters!';
-$_['error_address_1']   = 'Address 1 must be between 3 and 128 characters!';
-$_['error_city']        = 'City must be between 2 and 128 characters!';
-$_['error_country']     = 'Please select a country!';
-$_['error_zone']        = 'Please select a region / state!';
-$_['error_postcode']    = 'Postcode must be between 2 and 10 characters!';
+$_['error_exists']      = 'Huomautus: S&auml;hk&ouml;postiosoitteesi on jo rekister&ouml;ity!!';
+$_['error_firstname']   = 'Huomautus: Etunimen on oltava v&auml;hint&auml;&auml;n 1 ja enint&auml;&auml;n 32 merkki&auml; pitk&auml;!';
+$_['error_lastname']    = 'Huomautus: Sukunimen on oltava v&auml;hint&auml;&auml;n 1 ja enint&auml;&auml;n 32 merkki&auml; pitk&auml;!';
+$_['error_email']       = 'Huomautus: S&auml;hk&ouml;postiosoite on virheellinen!';
+$_['error_telephone']   = 'Huomautus: Puhelinnumeron on oltava v&auml;hint&auml;&auml;n 3 ja enint&auml;&auml;n 32 merkki&auml; pitk&auml;!';
+$_['error_address_1']   = 'Huomautus: Katuosoitteen on oltava v&auml;hint&auml;&auml;n 1 ja enint&auml;&auml;n 128 merkki&auml; pitk&auml;!';
+$_['error_city']        = 'Huomautus: Kaupungin nimen on oltava v&auml;hint&auml;&auml;n 2 ja enint&auml;&auml;n 128 merkki&auml; pitk&auml;!';
+$_['error_country']     = 'Huomautus: Valitse maa!';
+$_['error_zone']        = 'Huomautus: Valitse alue / maakunta!';
+$_['error_postcode']    = 'Huomautus: Postinumeron on oltava v&auml;hint&auml;&auml;n 2 ja enint&auml;&auml;n 10 merkki&auml; pitk&auml;!';
 ?>

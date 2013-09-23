@@ -21,7 +21,7 @@ $_['entry_city']       = 'Postitoimipaikka:';
 $_['entry_zone']       = 'Alue:';
 $_['entry_country']    = 'Maa:';
 $_['entry_telephone']  = 'Puhelinnumero:';
-$_['entry_fax']        = 'Fax-numero:';
+$_['entry_fax']        = 'Faksi:';
 
 // Error
 $_['error_firstname']  = 'Etunimen pit&auml;&auml; olla 1-32 merkki&auml; pitk&auml;!';

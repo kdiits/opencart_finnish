@@ -1,4 +1,4 @@
 <?php
 // Text
-$_['text_title'] = 'Pankki/luottokortti (Suomen Maksuturva)';
+$_['text_title'] = 'Luottokortti / Pankkikortti (Suomen Maksuturva)';
 ?>

@@ -1,16 +1,16 @@
 <?php
 // Text
 $_['text_title']                = 'Royal Mail';
-$_['text_weight']               = 'Weight:';
-$_['text_insurance']            = 'Insured upto:';
-$_['text_eta']                  = 'Estimated Time:';
-$_['text_1st_class_standard']   = 'First Class Standard Post';
-$_['text_1st_class_recorded']   = 'First Class Recorded Post';
-$_['text_2nd_class_standard']   = 'Second Class Standard Post';
-$_['text_2nd_class_recorded']   = 'Second Class Recorded Post';
-$_['text_standard_parcels']     = 'Standard Parcels';
-$_['text_airmail']              = 'Airmail';
-$_['text_international_signed'] = 'International Signed';
-$_['text_airsure']              = 'Airsure';
-$_['text_surface']              = 'Surface';
+$_['text_weight']               = 'Paino:';
+$_['text_insurance']            = 'Vakuutettu:';
+$_['text_eta']                  = 'Arvioituaika:';
+$_['text_1st_class_standard']   = '1. luokka';
+$_['text_1st_class_recorded']   = 'Kirjattu 1. luokka';
+$_['text_2nd_class_standard']   = '2. luokka';
+$_['text_2nd_class_recorded']   = 'Kirjattu 2. luokka';
+$_['text_standard_parcels']     = 'Tavallinen paketti';
+$_['text_airmail']              = 'Lentoposti';
+$_['text_international_signed'] = 'Kansainvälisestikirjattu';
+$_['text_airsure']              = 'Kirjattu lentopostina';
+$_['text_surface']              = 'Maateitse';
 ?>

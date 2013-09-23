@@ -1,11 +1,12 @@
 <?php
 // Heading 
-$_['heading_title']    = 'Affiliate Tracking';
+$_['heading_title']    = 'Sopimusasiakkaan seuranta';
 
 // Text
-$_['text_account']     = 'Account';
-$_['text_description'] = 'To make sure you get paid for referrals you send to us we need to track the referral by placing a tracking code in the URL\'s linking to us. You can use the tools below to generate links to the %s web site.';
-$_['text_code']        = '<b>Your Tracking Code:</b>';
-$_['text_generator']   = '<b>Tracking Link Generator</b><br />Type in the name of a product you would like to link to:';
-$_['text_link']        = '<b>Tracking Link:</b>';
+$_['text_account']     = 'K&auml;ytt&auml;j&auml;tunnus';
+$_['text_description'] = 'K&auml;ytt&ouml;&ouml;notettuihin URL linkkeihin t&auml;ytyy lis&auml;t&auml; seurantakoodi, jotta voidaan varmistaa että saat etujesi mukaisen hyvityksen. Voit käyttää alla olevia työkaluja linkkien generoimiseen %s verkkosivulle';
+$_['text_code']        = '<b>Seurantatunnus:</b>';
+$_['text_generator']   = '<b>Seurantalinkin generointi</b><br />Sy&ouml;t&auml; tuotteen nimi, jonka haluat linkitt&auml;&auml;:';
+$_['text_link']        = '<b>Seurantalinkki:</b>';
 ?>
+

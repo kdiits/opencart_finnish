@@ -1,8 +1,8 @@
 <?php
 // Heading 
-$_['heading_title'] = 'Information';
+$_['heading_title'] = 'Tietoja';
 
 // Text
-$_['text_contact']  = 'Contact Us';
-$_['text_sitemap']  = 'Site Map';
+$_['text_contact']  = 'Ota yhteytt&auml;';
+$_['text_sitemap']  = 'Sivukartta';
 ?>

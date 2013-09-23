@@ -1,4 +1,4 @@
 <?php
 // Heading 
-$_['heading_title']  = 'Kumppanit';
+$_['heading_title']  = 'Tukijat';
 ?>

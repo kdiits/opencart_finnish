@@ -1,4 +1,4 @@
 <?php
 // Heading
-$_['heading_title'] = 'Kategoriat';
+$_['heading_title'] = 'Tuotealueet';
 ?>

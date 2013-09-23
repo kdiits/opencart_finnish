@@ -3,14 +3,14 @@
 $_['heading_title']         = 'Laskut';
 
 // Text
-$_['text_account']          = 'Tili';
+$_['text_account']          = 'K&auml;ytt&auml;j&auml;tunnus';
 $_['text_history']          = 'Tilaushistoria';
 $_['text_invoice']          = 'Lasku';
 $_['text_invoice_id']       = 'Laskunumero';
 $_['text_order_id']         = 'Tilausnumero';
 $_['text_email']            = 'S&auml;hk&ouml;postiosoite';
 $_['text_telephone']        = 'Puhelinnumero';
-$_['text_fax']              = 'Fax-numero';
+$_['text_fax']              = 'Faksi';
 $_['text_shipping_address'] = 'Toimitusosoite';
 $_['text_shipping_method']  = 'Toimitustapa';
 $_['text_payment_address']  = 'Laskutusosoite';
@@ -22,7 +22,7 @@ $_['text_quantity']         = 'M&auml;&auml;r&auml;';
 $_['text_price']            = 'Kappalehinta';
 $_['text_total']            = 'Yhteens&auml;';
 $_['text_comment']          = 'Tilauksen lis&auml;tiedot';
-$_['text_error']            = 'Etsim&auml;&auml;si laskua ei l&ouml;ytynyt!';
+$_['text_error']            = 'Haettua laskua ei l&ouml;ytynyt!';
 $_['text_order']            = 'Tilausnumero';
 
 // Column

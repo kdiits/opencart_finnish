@@ -4,6 +4,7 @@ $_['heading_title'] = 'Ostoskori';
 
 // Text 
 $_['text_subtotal'] = 'V&auml;lisumma:';
+$_['text_items'] = '%s tuote(tta) - %s';
 $_['text_empty']    = 'Tyhj&auml;';
 $_['text_confirm']  = 'Oletko varma?';
 $_['text_remove']   = 'Poista';

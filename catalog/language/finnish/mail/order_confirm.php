@@ -7,7 +7,7 @@ $_['text_order_detail']     = 'Tilauksen tiedot';
 $_['text_order_id']         = 'Tilausnumero:';
 $_['text_date_added']       = 'Tilauspvm:';
 $_['text_order_status']     = 'Tilauksen tila:';
-$_['text_invoice']          = 'Jos haluat tarkistaa tilauksesi, klikkaa alla olevaa linkkiä:';
+$_['text_invoice']          = 'Jos haluat tarkistaa tilauksesi, klikkaa alla olevaa linkki&auml;:';
 $_['text_shipping_method']  = 'Toimitustapa:';
 $_['text_payment_method']   = 'Maksutapa:';
 $_['text_shipping_address'] = 'Toimitusosoite';
@@ -16,11 +16,11 @@ $_['text_email']  			= 'S&auml;hkopostiosoite:';
 $_['text_telephone']  		= 'Puhelinnumero:';
 $_['text_ip']  				= 'IP-osoite:';
 $_['text_product']          = 'Tuotteet:';
-$_['text_total']            = 'Yhteensä:';
-$_['text_download']         = 'Kun maksusuoritus on vahvistettu, klikkaa alla olevaa linkkiä josta voit noutaa ladattavat tuotteet:';
-$_['text_comment']          = 'Tilauksen lisätiedot:';
-$_['text_footer']           = 'Vastaa tähän viestiin, jos sinulla ilmenee kysyttävää.';
-$_['text_powered_by']       = 'powered by';
+$_['text_total']            = 'Yhteens&auml;:';
+$_['text_download']         = 'Kun maksusuoritus on vahvistettu, klikkaa alla olevaa linkki&auml; josta voit noutaa ladattavat tuotteet:';
+$_['text_comment']          = 'Tilauksen lis&auml;tiedot:';
+$_['text_footer']           = 'Vastaa t&auml;h&auml;n viestiin, jos sinulla ilmenee kysytt&auml;v&auml;&auml;.';
+$_['text_powered_by']       = 'toteutettu';
 
 // Column
 $_['column_product']        = 'Tuote';
