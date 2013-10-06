@@ -11,7 +11,7 @@ $_['text_success']      = 'Onnistui: Tiedot on p&auml;ivitetty.';
 // Entry
 $_['entry_firstname']  = 'Etunimi:';
 $_['entry_lastname']   = 'Sukunimi:';
-$_['entry_email']      = 'S&auml;hk&ouml;posti:';
+$_['entry_email']      = 'S&auml;hk&ouml;postiosoite:';
 $_['entry_telephone']  = 'Puhelin:';
 $_['entry_fax']        = 'Faksi:';
 

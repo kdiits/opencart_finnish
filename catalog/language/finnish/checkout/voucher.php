@@ -11,7 +11,7 @@ $_['text_for']         = '%s lahjakortti %s';
 
 // Entry
 $_['entry_to_name']    = 'Saajan nimi:';
-$_['entry_to_email']   = 'Saajan s&auml;hk&ouml;posti:';
+$_['entry_to_email']   = 'Saajan s&auml;hk&ouml;postiosoite:';
 $_['entry_from_name']  = 'Antajan nimi:';
 $_['entry_from_email'] = 'Antajan s&auml;hk&ouml;postiosoite:';
 $_['entry_message']    = 'Viesti:<br /><span class="help">(vaihtoehtoinen)</span>';
