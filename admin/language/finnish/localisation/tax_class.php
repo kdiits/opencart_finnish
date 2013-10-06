@@ -3,7 +3,7 @@
 $_['heading_title']     = 'Veroluokat';
 
 // Text
-$_['text_success']      = 'Veroluokkien muokkaaminen tehty!';
+$_['text_success']      = 'Suorite: Veroluokkien muokkaaminen tehty!';
 
 // Column
 $_['column_title']      = 'Veroluokan nimi';
@@ -17,11 +17,11 @@ $_['entry_priority']    = 'Prioriteetti:';
 $_['entry_rate']        = 'Veroprosentti:';
 
 // Error
-$_['error_permission']  = 'Varoitus: Sinulla ei ole oikeuksia veroluokkien muokkaamiseksi!';
-$_['error_title']       = 'Veroluokan nimen pit&auml;&auml; olla 3-32 merkki&auml; pitk&auml;!';
-$_['error_description'] = 'Kuvauksen pit&auml;&auml; olla 3-255 merkki&auml; pitk&auml;!';
-$_['error_priority']    = 'Prioriteetti on pakollinen tieto!';
-$_['error_rate']        = 'Veroprosentti on pakollinen tieto!';
-$_['error_description'] = 'Veroprosentin kuvauksen pit&auml;&auml; olla 3-255 merkki&auml; pitk&auml;!';
-$_['error_product']     = 'Varoitus: T&auml;t&auml; veroluokkaa ei voi poistaa, koska se on liitetty %s tuotteeseen!';
+$_['error_permission']  = 'Varoitus: Sinulla ei ole vaadittavia oikeuksia suorittaa toimintoa!';
+$_['error_title']       = 'Veroluokan nimi -sy&ouml;te on oltava 3-32 merkki&auml; pitk&auml;!';
+$_['error_description'] = 'Kuvaus -sy&ouml;te on oltava 3-255 merkki&auml; pitk&auml;!';
+$_['error_priority']    = 'Prioriteetti -sy&ouml;te on pakollinen!';
+$_['error_rate']        = 'Veroprosentti -sy&ouml;te on pakollinen!';
+$_['error_description'] = 'Kuvaus -sy&ouml;te on oltava 3-255 merkki&auml; pitk&auml;!';
+$_['error_product']     = 'Varoitus: Valittua veroluokkaa ei voi poistaa, koska se on liitetty %s tuotteeseen!';
 ?>

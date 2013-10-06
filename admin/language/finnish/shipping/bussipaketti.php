@@ -4,7 +4,7 @@ $_['heading_title']      = 'Bussipaketti';
 
 // Text
 $_['text_shipping']      = 'Toimitustavat';
-$_['text_success']       = 'Toimitustavan Bussipaketti muokkaaminen suoritettu!';
+$_['text_success']       = 'Suorite: Asetukset on tallennettu onnistuneesti!';
 
 // Entry
 $_['entry_rate']         = 'Hinnat:<br /><span class="help">Esim: 5:10.00,7:12.00 Paino:Hinta,Paino:Hinta, jne..</span>';
@@ -14,5 +14,5 @@ $_['entry_status']       = 'Tila:';
 $_['entry_sort_order']   = 'J&auml;jestysnumero:';
 
 // Error
-$_['error_permission']   = 'Varoitus: Sinulla ei ole oikeuksia toimitustavan Bussipaketti muokkaamiseen!';
+$_['error_permission']   = 'Varoitus: Sinulla ei ole vaadittavia oikeuksia suorittaa toimintoa!';
 ?>

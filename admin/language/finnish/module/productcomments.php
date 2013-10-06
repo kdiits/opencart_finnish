@@ -1,16 +1,16 @@
 <?php
 
 $_['heading_title']    = 'Product Comments';
-$_['text_module']         = 'Modules';
+$_['text_module']         = 'Moduulit';
 
-$_['error_permission'] = 'Warning: You do not have permission to modify module!';
+$_['error_permission'] = 'Varoitus: Sinulla ei ole vaadittavia oikeuksia suorittaa toimintoa!';
 
 $_['text_id'] = 'ID';
 $_['text_product'] = 'Product';
-$_['text_save'] = 'Save';
-$_['text_delete'] = 'Delete';
-$_['text_comment'] = 'Comment';
-$_['text_name'] = 'Name';
+$_['text_save'] = 'Tallenna';
+$_['text_delete'] = 'Poista';
+$_['text_comment'] = 'Selite';
+$_['text_name'] = 'Nimi';
 $_['text_email'] = 'Email';
 $_['text_display'] = 'Display';
 

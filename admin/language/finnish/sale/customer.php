@@ -3,7 +3,7 @@
 $_['heading_title']        = 'Asiakas';
 
 // Text
-$_['text_success']         = 'Asiakkaiden muokkaaminen tehty!';
+$_['text_success']         = 'Suorite: Asetukset on tallennettu onnistuneesti!';
 $_['text_approved']        = 'Olet hyv&auml;ksynyt asiakkaan %s!';
 $_['text_activate']        = 'Aktivoi';
 $_['text_activated']       = 'Olet aktivoinut %s tilin!';
@@ -50,22 +50,22 @@ $_['entry_zone']           = 'Alue / kunta:';
 // Mail
 $_['mail_subject']         = '%s - tili on aktivoitu!';
 $_['mail_welcome']         = 'Kiitos rekister&ouml;itymisest&auml; %s!';
-$_['mail_login']           = 'Tilisi on nyt luotu ja voit kirjautua s&auml;hk&ouml;postiosoitteella ja salasanalla osoitteessa:';
+$_['mail_login']           = 'K&auml;ytt&auml;j&auml;tunnussi on nyt luotu ja voit kirjautua s&auml;hk&ouml;postiosoitteella ja salasanalla osoitteessa:';
 $_['mail_services']        = 'Kirjautumisen j&auml;lkeen voit mm. tarkastella tilaushistoriaa, tulostaa laskuja ja muokata tilisi tietoja.';
 $_['mail_thanks']          = 'Terveisin,';
 
 // Error
-$_['error_permission']     = 'Varoitus: Sinulla ei ole oikeuksia asiakkaiden muokkaamiseen!';
-$_['error_firstname']      = 'Etunimen pit&auml;&auml; olla 1-32 merkki&auml; pitk&auml;!';
-$_['error_lastname']       = 'Sukunimen pit&auml;&auml; olla 1-32 merkki&auml; pitk&auml;!';
+$_['error_permission']     = 'Varoitus: Sinulla ei ole vaadittavia oikeuksia suorittaa toimintoa!';
+$_['error_firstname']      = 'Etunimen on oltava 1-32 merkki&auml; pitk&auml;!';
+$_['error_lastname']       = 'Sukunimen on oltava 1-32 merkki&auml; pitk&auml;!';
 $_['error_email']          = 'S&auml;hk&ouml;postiosoite ei ole kelvollinen!';
 $_['error_telephone']      = 'Telephone must be greater than 3 and less than 32 characters!';
-$_['error_password']       = 'Salasanan pit&auml;&auml; olla 3-20 merkki&auml; pitk&auml;!';
+$_['error_password']       = 'Salasanan on oltava 3-20 merkki&auml; pitk&auml;!';
 $_['error_confirm']        = 'Salasana ja vahvistettu salasanan eiv&auml;t t&auml;sm&auml;&auml;!';
-$_['error_address_firstname'] = 'Etunimen pit&auml;&auml; olla 1-32 merkki&auml; pitk&auml;!';
-$_['error_address_lastname']  = 'Sukunimen pit&auml;&auml; olla 1-32 merkki&auml; pitk&auml;!';
-$_['error_address_1']         = 'Osoitteen pit&auml;&auml; olla 1-128 merkki&auml; pitk&auml;!';
-$_['error_city']              = 'Postitoimipaikan pit&auml;&auml; olla 3-128 merkki&auml; pitk&auml;!';
+$_['error_address_firstname'] = 'Etunimen on oltava 1-32 merkki&auml; pitk&auml;!';
+$_['error_address_lastname']  = 'Sukunimen on oltava 1-32 merkki&auml; pitk&auml;!';
+$_['error_address_1']         = 'Osoitteen on oltava 1-128 merkki&auml; pitk&auml;!';
+$_['error_city']              = 'Postitoimipaikan on oltava 3-128 merkki&auml; pitk&auml;!';
 $_['error_country']           = 'Valitse maa!';
 $_['error_zone']              = 'Valitse alue/kunta!';
 ?>

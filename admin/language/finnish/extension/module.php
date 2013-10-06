@@ -12,6 +12,6 @@ $_['text_right']         = 'Oikealla';
 $_['column_name']        = 'Moduulin nimi';
 $_['column_position']    = 'Sijainti';
 $_['column_status']      = 'Tila';
-$_['column_sort_order']  = 'J&auml;rjestysnumero';
+$_['column_sort_order']  = 'J&auml;rjestys';
 $_['column_action']      = 'Toimenpide';
 ?>

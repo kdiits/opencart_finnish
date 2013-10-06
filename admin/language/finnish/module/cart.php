@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']    = 'Shopping Cart';
+$_['heading_title']    = 'Ostoskori';
 
 // Text
-$_['text_module']      = 'Modules';
-$_['text_success']     = 'Success: You have modified module cart!';
-$_['text_content_top']    = 'Content Top';
-$_['text_content_bottom'] = 'Content Bottom';
-$_['text_column_left']    = 'Column Left';
-$_['text_column_right']   = 'Column Right';
+$_['text_module']      = 'Moduulit';
+$_['text_success']        = 'Suorite: Asetukset on tallennettu onnistuneesti!';
+$_['text_content_top']    = 'Yl&auml;osa';
+$_['text_content_bottom'] = 'Alaosa';
+$_['text_column_left']    = 'Sarake (vasen)';
+$_['text_column_right']   = 'Sarake (oikea)';
 
 // Entry
 $_['entry_ajax']       = 'AJAX Add To Cart:';
-$_['entry_position']   = 'Position:';
-$_['entry_layout']        = 'Layout:';
-$_['entry_status']     = 'Status:';
-$_['entry_sort_order'] = 'Sort Order:';
+$_['entry_position']   = 'Sijainti:';
+$_['entry_layout']        = 'Teema:';
+$_['entry_status']     = 'Tila:';
+$_['entry_sort_order'] = 'J&auml;rjestysnumero:';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify module cart!';
+$_['error_permission'] = 'Varoitus: Sinulla ei ole vaadittavia oikeuksia suorittaa toimintoa!';
 ?>

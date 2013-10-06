@@ -3,7 +3,7 @@
 // Dynamic Background v151.2
 // 
 // Author: Clear Thinking, LLC
-// E-mail: johnathan@getclearthinking.com
+// S&auml;hk&ouml;postiosoite: johnathan@getclearthinking.com
 // Website: http://www.getclearthinking.com
 //==============================================================================
 
@@ -17,14 +17,14 @@ $_['tab_manufacturers']			= 'Manufacturers';
 $_['tab_information']			= 'Information';
 
 // Entry
-$_['entry_status']				= 'Status:';
+$_['entry_status']				= 'Tila:';
 $_['entry_fallback_option']		= 'Fallback Option:<br /><span class="help">Choose whether sub-categories fall back to their parent category\'s color or the default color when they have no background color set.';
 $_['entry_defaults']			= 'Defaults:<br /><span class="help">Choose the defaults when no background is set for a page. Leave blank to use your stylesheet\'s default background styling.';
 
 // Text
-$_['text_module']				= 'Modules';
+$_['text_module']				= 'Moduulit';
 $_['text_image_manager']		= 'Image Manager';
-$_['text_success']				= 'Success: You have modified the Dynamic Background module!';
+$_['text_success']				= 'SSuorite: You have modified the Dynamic Background module!';
 $_['text_parents_color']		= 'Parent category\'s color';
 $_['text_default_color']		= 'Default color';
 $_['text_background_help']		= '<span class="help">Background Color will be overridden by Background Image if set, and both will be overridden by Background Gradient if set.</span>';
@@ -40,5 +40,5 @@ $_['button_save_exit']			= 'Save & Exit';
 $_['button_save_keep_editing']	= 'Save & Keep Editing';
 
 // Error
-$_['error_permission']			= 'Warning: You do not have permission to modify the Dynamic Background module!';
+$_['error_permission']			= 'Varoitus: Sinulla ei ole vaadittavia oikeuksia suorittaa toimintoa!';
 ?>

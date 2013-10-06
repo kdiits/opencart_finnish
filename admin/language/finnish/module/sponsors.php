@@ -1,6 +1,6 @@
 <?php
 // Heading
-$_['heading_title']       = 'Kumppanit';
+$_['heading_title']       = 'Sopimusasiakkaat';
 
 // Column
 $_['column_name']         = 'Nimi';
@@ -9,7 +9,7 @@ $_['column_clicks']       = 'Klikkauksia';
 
 // Text
 $_['text_module']         = 'Moduuli';
-$_['text_success']        = 'Moduulin Kumppanit muokkaaminen suoritettu!';
+$_['text_success']        = 'Suorite: Asetukset on tallennettu onnistuneesti!';
 $_['text_left']           = 'Vasemmalla';
 $_['text_right']          = 'Oikealla';
 $_['text_total_clicks']   = 'Klikkauksia yht.:';
@@ -27,5 +27,5 @@ $_['entry_timer']         = 'Aikav&auml;li (sekunneissa):';
 $_['tab_statistics']      = 'Tilastot';
 
 // Error
-$_['error_permission']    = 'Varoitus: Sinulla ei ole oikeuksia moduulin Kumppanit muokkaamiseen!';
+$_['error_permission']    = 'Varoitus: Sinulla ei ole vaadittavia oikeuksia suorittaa toimintoa!';
 ?>

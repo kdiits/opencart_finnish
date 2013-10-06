@@ -3,7 +3,7 @@
 $_['heading_title']              = 'Asetukset';
 
 // Text
-$_['text_success']               = 'Asetukset tallennettu!';
+$_['text_success']               = 'Suorite: Asetukset on tallennettu onnistuneesti!';
 $_['text_image_manager']         = 'Kuvien hallinta';
 $_['text_default']               = 'Oletus';
 $_['text_edit_store']            = 'Muokkaa Kauppaa:';
@@ -40,7 +40,7 @@ $_['entry_customer_group']       = 'Asiakasryhm&auml;:<br /><span class="help">O
 $_['entry_customer_price']       = 'N&auml;yt&auml; hinnat vain kirjautuneille:<br /><span class="help">Hinnat n&auml;ytet&auml;&auml;n vain kirjautuneille asiakkaille.</span>';
 $_['entry_customer_approval']    = 'Uuden asiakkaan hyv&auml;ksynt&auml;:<br /><span class="help">Uuden asiakkaan tili pit&auml;&auml; aktivoida, ennen kuin asiakas voi kirjautua.</span>';
 $_['entry_guest_checkout']       = 'Kassalle ilman tili&auml;:<br /><span class="help">Asiakas voi tilata ilman tili&auml;/rekister&ouml;itymist&auml;. T&auml;m&auml; vaihtoehto ei ole k&auml;ytett&auml;viss&auml;, kun ostoskorissa on ladattava tuote.</span>';
-$_['entry_account']              = 'Tilin ehdot:<br /><span class="help">Asiakkaan pit&auml;&auml; hyv&auml;ksy&auml; n&auml;m&auml; ehdot ennen kuin tili voidaan luoda.</span>';
+$_['entry_account']              = 'K&auml;ytt&auml;j&auml;tunnusn ehdot:<br /><span class="help">Asiakkaan pit&auml;&auml; hyv&auml;ksy&auml; n&auml;m&auml; ehdot ennen kuin tili voidaan luoda.</span>';
 $_['entry_checkout']             = 'Toimitusehdot:<br /><span class="help">Asiakkaan pit&auml;&auml; hyv&auml;ksy&auml; n&auml;m&auml; ehdot ennen kuin voi siirty&auml; kassalle.</span>';
 $_['entry_order_status']         = 'Tilauksen tila:<br /><span class="help">Aseta oletusarvoinen tilauksen tila, kun tilaus on k&auml;sitelty.</span>';
 $_['entry_stock_display']        = 'N&auml;yt&auml; varaston tila:<br /><span class="help">N&auml;yt&auml; varastossa olevien tuotteiden m&auml;&auml;r&auml; tuotesivulla.</span>';
@@ -68,8 +68,8 @@ $_['entry_smtp_port']            = 'SMTP portti:';
 $_['entry_smtp_timeout']         = 'SMTP aikakatkaisu:';
 $_['entry_ssl']                  = 'K&auml;yt&auml; SSL:&auml;&auml;:<br /><span class="help">K&auml;ytt&auml;&auml;ksesi SSL:&auml;&auml; varmista palveluntarjoajaltasi ett&auml; SSL sertifikaatti on asennettu ja lis&auml;&auml; SSL-osoite asetustiedostoon.</span>';
 $_['entry_encryption']           = 'Salausavain:<br /><span class="help">Anna salausavain, jota k&auml;ytet&auml;&auml;n salaamaan henkil&ouml;kohtaiset tiedot kun tilauksia k&auml;sitell&auml;&auml;n.</span>';
-$_['entry_seo_url']              = 'K&auml;yt&auml; SEO URL-osoitteita:<br /><span class="help">K&auml;ytt&auml;&auml;ksesi SEO URL-osoitteita apachen moduuli mod-rewrite pit&auml;&auml; olla asennettuna ja htaccess.txt pit&auml;&auml; uudelleennimet&auml; .htaccess -nimiseksi.</span>';
-$_['entry_compression']          = 'Tulosteen pakkaustaso:<br /><span class="help"> Pakkaustason pit&auml;&auml; olla 0 - 9</span>';
+$_['entry_seo_url']              = 'K&auml;yt&auml; SEO URL-osoitteita:<br /><span class="help">K&auml;ytt&auml;&auml;ksesi SEO URL-osoitteita apachen moduuli mod-rewrite on oltava asennettuna ja htaccess.txt pit&auml;&auml; uudelleennimet&auml; .htaccess -nimiseksi.</span>';
+$_['entry_compression']          = 'Tulosteen pakkaustaso:<br /><span class="help"> Pakkaustason on oltava 0 - 9</span>';
 $_['entry_error_display']        = 'N&auml;yt&auml; virheilmoitukset:';
 $_['entry_error_log']            = 'Virheilmoitukset lokiin:';
 $_['entry_error_filename']       = 'Virhelokin tiedostonimi:';
@@ -85,30 +85,30 @@ $_['entry_welcome']              = 'Tervetuloa-viesti:';
 $_['entry_measurement_class']    = 'Pituusyksikk&ouml;:';
 $_['entry_stock_check']          = 'N&auml;yt&auml; loppu varastosta:<br /><span class="help">N&auml;yt&auml; loppu varastosta viesti ostoskorissa, jos tuote on loppunut varastosta.</span>';
 $_['entry_stock_subtract']       = 'V&auml;henn&auml; varastosta:<br /><span class="help">V&auml;henn&auml; varastosta tuotteen m&auml;&auml;r&auml;, kun tilaus on k&auml;sitelty.</span>';
-$_['entry_layout']    		 = 'Layout:';
+$_['entry_layout']    		 = 'Teema:';
 $_['entry_tax_default']    	 = 'Oletus verotus:';
 $_['entry_tax_customer']    	 = 'Asiakas verotus:';
-$_['entry_affiliate']    	 = 'Yhteistyökumppani:';
+$_['entry_affiliate']    	 = 'Yhteisty&ouml;kumppani:';
 $_['entry_commission']    	 = 'Komissio:';
-$_['entry_complete_status']    	 = 'Tilauksen tila:';
+$_['entry_complete_status']    	 = 'Tilauksen tilanne:';
 $_['entry_return_status']    	 = 'Palautuksen tila:';
 $_['entry_upload_allowed']    	 = 'Sallitut tiedostomuodot:';
 $_['entry_image_compare']    	 = 'Vertailun kuvakoko:';
 $_['entry_image_wishlist']    	 = 'Toivelistan kuvakoko:';
-$_['entry_account_mail']    	 = 'Sähköposti-ilmoitus kun uusi tili luodaan:';
-$_['entry_use_ssl']    	 	 = 'Käytä SSL Suojausta:';
+$_['entry_account_mail']    	 = 'S&auml;hk&ouml;posti-ilmoitus kun uusi tili luodaan:';
+$_['entry_use_ssl']    	 	 = 'K&auml;yt&auml; SSL Suojausta:';
 $_['entry_google_analytics']     = 'Google Analytics koodi:';
 
 // Button
 $_['button_add_store']           = 'Luo uusi Kauppa';
 
 // Error
-$_['error_permission']			 = 'Varoitus: Sinulla ei ole oikeuksia asetusten muuttamiseen!';
-$_['error_title']                = 'Otsikon pit&auml;&auml; olla 3-32 merkki&auml; pitk&auml;!';
-$_['error_owner']                = 'Verkkokaupan omistajan pit&auml;&auml; olla 3-64 merkki&auml; pitk&auml;!';
-$_['error_address']              = 'Osoitteen pit&auml;&auml; olla 10-128 merkki&auml; pitk&auml;!';
+$_['error_permission']			 = 'Varoitus: Sinulla ei ole vaadittavia oikeuksia suorittaa toimintoa!';
+$_['error_title']                = 'Otsikon on oltava 3-32 merkki&auml; pitk&auml;!';
+$_['error_owner']                = 'Verkkokaupan omistajan on oltava 3-64 merkki&auml; pitk&auml;!';
+$_['error_address']              = 'Osoitteen on oltava 10-128 merkki&auml; pitk&auml;!';
 $_['error_email']                = 'S&auml;hk&ouml;postiosoite ei ole kelvollinen!';
-$_['error_telephone']            = 'Puhelinnumeron pit&auml;&auml; olla 3-32 merkki&auml; pitk&auml;!';
+$_['error_telephone']            = 'Puhelinnumeron on oltava 3-32 merkki&auml; pitk&auml;!';
 $_['error_image_thumb']       	 = 'Product Image Thumb Size dimensions required!';
 $_['error_image_popup']       	 = 'Product Image Popup Size dimensions required!';
 $_['error_image_category']    	 = 'Category List Size dimensions required!';
@@ -117,11 +117,11 @@ $_['error_image_additional']  	 = 'Additional Product Image Size dimensions requ
 $_['error_image_related']     	 = 'Related Product Image Size dimensions required!';
 $_['error_image_cart']        	 = 'Cart Image Size dimensions required!';
 $_['error_error_filename']       = 'Virhelokin tiedostonimi on pakollinen tieto!';
-$_['error_required_data']     	 = 'Pakolliset tiedot on annettava!';
+$_['error_required_data']     	 = 'Sy&ouml;t&auml; tarvittavat tiedot!';
 $_['error_limit']       	  	 = 'Limit required!';
 $_['error_name']              	 = 'Store Name must be between 3 and 32 characters!';
 $_['error_url']               	 = 'Store URL required!';
-$_['error_store']                = 'Verkkokaupan nimen pit&auml;&auml; olla 3-32 merkki&auml; pitk&auml;!';
+$_['error_store']                = 'Verkkokaupan nimen on oltava 3-32 merkki&auml; pitk&auml;!';
 $_['error_upload']               = 'Varoitus: Tiedoston l&auml;hett&auml;minen ep&auml;onnistui tuntemattomasta syyst&auml;!';
 $_['error_filetype']             = 'Varoitus: Tiedostotyyppi ei ole kelvollinen!';
 $_['error_writable_image']       = 'Varoitus: Kuvahakemistoon ei voi tallentaa!';

@@ -1,22 +1,22 @@
 <?php
 // Heading
-$_['heading_title']    = 'Latest Products by category';
+$_['heading_title']    = 'Uusimmat tuotteet tuoteryhmitt&auml;in';
 
 // Text
-$_['text_module']      = 'Modules';
-$_['text_success']     = 'Success: You have modified module category home!';
-$_['text_content_top']    = 'Content Top';
-$_['text_content_bottom'] = 'Content Bottom';
+$_['text_module']      = 'Moduulit';
+$_['text_success']        = 'Suorite: Asetukset on tallennettu onnistuneesti!';
+$_['text_content_top']    = 'Yl&auml;osa';
+$_['text_content_bottom'] = 'Alaosa';
 
 // Entry
-$_['entry_category']      = 'Category:';
-$_['entry_limit']         = 'Limit:'; 
-$_['entry_image']         = 'Image (W x H):';
-$_['entry_layout']        = 'Layout:';
-$_['entry_position']      = 'Position:';
-$_['entry_status']        = 'Status:';
-$_['entry_sort_order']    = 'Sort Order:';
+$_['entry_category']      = 'Tuotealue:';
+$_['entry_limit']         = 'Rajoite:'; 
+$_['entry_image']         = 'Kuva (L x K):';
+$_['entry_layout']        = 'Teema:';
+$_['entry_position']      = 'Sijainti:';
+$_['entry_status']        = 'Tila:';
+$_['entry_sort_order']    = 'J&auml;rjestysnumero:';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify module latest product by category!';
+$_['error_permission'] = 'Varoitus: Sinulla ei ole vaadittavia oikeuksia suorittaa toimintoa!';
 ?>

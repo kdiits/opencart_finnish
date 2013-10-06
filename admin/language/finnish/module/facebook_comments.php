@@ -3,28 +3,28 @@
 $_['heading_title']       = 'Facebook Comments';
 
 // Text
-$_['text_module']         = 'Modules';
-$_['text_success']        = 'Success: You have modified module facebook comments!';
+$_['text_module']         = 'Moduulit';
+$_['text_success']        = 'Suorite: Asetukset on tallennettu onnistuneesti!';
 $_['text_heading_title']  = 'Heading title';
-$_['text_content_top']    = 'Content Top';
-$_['text_content_bottom'] = 'Content Bottom';
-$_['text_column_left']    = 'Column Left';
-$_['text_column_right']   = 'Column Right';
-$_['text_light']          = 'Light';
-$_['text_dark']           = 'Dark';
+$_['text_content_top']    = 'Yl&auml;osa';
+$_['text_content_bottom'] = 'Alaosa';
+$_['text_column_left']    = 'Sarake (vasen)';
+$_['text_column_right']   = 'Sarake (oikea)';
+$_['text_light']          = 'Kirkas';
+$_['text_dark']           = 'Tumma';
 
 // Entry
 $_['entry_app_id']        = 'Application ID:'; 
 $_['entry_add_social_box']= 'Social box:';
 $_['entry_width']         = 'Width:';
 $_['entry_posts']         = 'Number of posts:';
-$_['entry_color_scheme']  = 'Color Scheme:';
-$_['entry_layout']        = 'Layout:';
-$_['entry_position']      = 'Position:';
-$_['entry_status']        = 'Status:';
-$_['entry_sort_order']    = 'Sort Order:';
+$_['entry_color_scheme']  = 'V&auml;riteema';
+$_['entry_layout']        = 'Teema:';
+$_['entry_position']      = 'Sijainti:';
+$_['entry_status']        = 'Tila:';
+$_['entry_sort_order']    = 'J&auml;rjestysnumero:';
 
 // Error
-$_['error_permission']    = 'Warning: You do not have permission to modify module facebook comments!';
-$_['error_app_id']        = 'Required!';
+$_['error_permission']    = 'Varoitus: Sinulla ei ole vaadittavia oikeuksia suorittaa toimintoa!';
+$_['error_app_id']        = 'Pakollinen!';
 ?>

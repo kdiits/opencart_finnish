@@ -4,7 +4,7 @@ $_['heading_title']    = 'L&auml;hi-paketti';
 
 // Text
 $_['text_shipping']    = 'Toimitustavat';
-$_['text_success']     = 'Toimitustavan L&auml;hi-paketti muokkaaminen suoritettu!';
+$_['text_success']     = 'Suorite: Asetukset on tallennettu onnistuneesti!';
 
 // Entry
 $_['entry_cost']       = 'Hinta:';
@@ -14,5 +14,5 @@ $_['entry_status']     = 'Tila:';
 $_['entry_sort_order'] = 'J&auml;rjestysnumero:';
 
 // Error
-$_['error_permission'] = 'Varoitus: Sinulla ei ole oikeuksia toimitustavan L&auml;hi-paketti muokkaamiseen!';
+$_['error_permission'] = 'Varoitus: Sinulla ei ole vaadittavia oikeuksia suorittaa toimintoa!';
 ?>

@@ -6,10 +6,10 @@ $_['column_date_start'] = 'Pvm alkaa';
 $_['column_date_end'] = 'Pvm loppuu';
 $_['column_name'] = 'Tuotteen nimi';
 $_['column_model'] = 'Malli';
-$_['column_quantity'] = 'Määrä';
-$_['column_total'] = 'Yhteensä';
-$_['entry_date_start'] = 'Pvm alkaa:';
-$_['entry_date_end'] = 'Pvm loppuu:';
-$_['entry_status'] = 'Tilauksen tila:';
+$_['column_quantity'] = 'M&auml;&auml;r&auml;';
+$_['column_total'] = 'Yhteens&auml;';
+$_['entry_date_start']    = 'Alkaen (pvm):';
+$_['entry_date_end']      = 'Asti (pvm):';
+$_['entry_status'] = 'Tilauksen tilanne:';
 
 ?>

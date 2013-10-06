@@ -12,7 +12,7 @@ $_['heading_title']		= 'K&auml;vij&auml;laskuri';
 
 // Text
 $_['text_module']		= 'Moduulit';
-$_['text_success']		= 'Moduulin K&auml;vij&auml;laskuri muokkaaminen suoritettu!';
+$_['text_success']		= 'Suorite: Asetukset on tallennettu onnistuneesti!';
 $_['text_left']			= 'Vasemmalla';
 $_['text_right']		= 'Oikealla';
 
@@ -28,5 +28,5 @@ $_['entry_th_shopping']		= 'Ostoskorit';
 $_['entry_th_users']		= 'K&auml;ytt&auml;j&auml;t';
 
 // Error
-$_['error_permission']		= 'Varoitus: Sinulla ei ole oikeuksia moduulin K&auml;vij&auml;laskuri muokkaamiseen!';
-$_['error_expire']		= 'Aika on pakollinen tieto!';
+$_['error_permission']		= 'Varoitus: Sinulla ei ole vaadittavia oikeuksia suorittaa toimintoa!';
+$_['error_expire']		= 'Aika -sy&ouml;te on pakollinen!';

@@ -2,12 +2,12 @@
 
 $_['heading_title'] = 'Asiakkaan krediitti raportti';
 $_['column_customer'] = 'Asiakkaan nimi';
-$_['column_email'] = 'E-Mail';
-$_['column_customer_group'] = 'Asiakasryhmä';
+$_['column_email'] = 'S&auml;hk&ouml;postiosoite';
+$_['column_customer_group'] = 'Asiakasryhm&auml;';
 $_['column_status'] = 'Tila';
-$_['column_total'] = 'Yhteensä';
+$_['column_total'] = 'Yhteens&auml;';
 $_['column_action'] = 'Toimenpide';
-$_['entry_date_start'] = 'Pvm alkaa:';
-$_['entry_date_end'] = 'Pvm loppuu:';
+$_['entry_date_start']    = 'Alkaen (pvm):';
+$_['entry_date_end']      = 'Asti (pvm):';
 
 ?>

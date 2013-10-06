@@ -18,17 +18,17 @@ $_['heading_title']    = 'smshare';
 
 
 // Text
-$_['text_module']      = 'Modules';
-$_['text_success']     = 'Success: You have modified module smshare!';
-$_['text_left']        = 'Left';
-$_['text_right']       = 'Right';
-$_['text_home']        = 'Home';
+$_['text_module']      = 'Moduulit';
+$_['text_success']     = 'Suorite: Asetukset on tallennettu onnistuneesti!';
+$_['text_left']        = 'Vasen';
+$_['text_right']       = 'Oikea';
+$_['text_home']        = 'Etusivu';
 
 // Entry
-$_['entry_username']   = 'Username:';
-$_['entry_passwd']     = 'Password:';
+$_['entry_username']   = 'K&auml;ytt&auml;j&auml;tunnus:';
+$_['entry_passwd']     = 'Salasana:';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify module smshare!';
+$_['error_permission'] = 'Varoitus: Sinulla ei ole vaadittavia oikeuksia suorittaa toimintoa!';
 $_['text_footer']       = 'Please reply to this sms if you have any questions.';
 ?>

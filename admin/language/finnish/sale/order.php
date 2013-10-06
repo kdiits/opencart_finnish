@@ -3,8 +3,8 @@
 $_['heading_title']         = 'Tilaukset';
 
 // Text
-$_['text_success']          = 'Tilausten muokkaaminen tehty!';
-$_['text_success_address']  = 'Osoitetietojen muokkaaminen suoritettu!';
+$_['text_success']          = 'Suorite: Asetukset on tallennettu onnistuneesti!';
+$_['text_success_address']  = 'Suorite: Osoitetiedot on tallennettu onnistuneesti!';
 $_['text_invoice']          = 'Lasku';
 $_['text_order_id']         = 'Tilausnumero:';
 $_['text_invoice_id']       = 'Laskunumero.:';
@@ -39,7 +39,7 @@ $_['text_comment']          = 'Kommentit';
 $_['column_order']          = 'Tilausnumero';
 $_['column_name']           = 'Asiakkaan nimi';
 $_['column_status']         = 'Tila';
-$_['column_date_added']     = 'Luonti pvm';
+$_['column_date_added']     = 'Kirjattu pvm';
 $_['column_total']          = 'Yhteens&auml;';
 $_['column_product']        = 'Tuote';
 $_['column_model']          = 'Malli';
@@ -54,7 +54,7 @@ $_['column_action']         = 'Toimenpide';
 $_['column_add_product']    = 'Lis&auml;&auml; tuotteita';
 $_['column_order_id']       = 'Tilausnumero';
 $_['column_customer']       = 'Asiakas';
-$_['column_date_modified']  = 'Muokkaus pvm';
+$_['column_date_modified']  = 'Muokattu pvm';
 
 // Entry 
 $_['entry_order_id']        = 'Tilausnumero:';
@@ -100,11 +100,11 @@ $_['button_update_address'] = 'P&auml;ivit&auml; osoite';
 $_['mail_subject']          = '%s - tilauksen tilannetieto %s';
 $_['mail_order']            = 'Tilausnumero:';
 $_['mail_date_added']       = 'Tilauspvm:';
-$_['mail_order_status']     = 'Tilauksen tila:';
+$_['mail_order_status']     = 'Tilauksen tilanne:';
 $_['mail_comment']          = 'Tilauksen kommentit:';
 $_['mail_invoice']          = 'N&auml;hd&auml;ksesi tilauksen, klikkaa alla olevaa linkki&auml;:';
 $_['mail_footer']           = 'Vastaa t&auml;h&auml;n viestiin, jos sinulla ilmenee kysytt&auml;v&auml;&auml;.';
 
 // Error
-$_['error_permission']      = 'Varoitus: Sinulla ei ole oikeuksia tilausten muokkaamiseen!';
+$_['error_permission']      = 'Varoitus: Sinulla ei ole vaadittavia oikeuksia suorittaa toimintoa!';
 ?>

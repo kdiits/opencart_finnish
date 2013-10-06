@@ -3,12 +3,12 @@
 $_['heading_title']    = 'Quick Info';
 
 // Text
-$_['text_module']      = 'Modules';
-$_['text_success']     = 'Success: You have modified module Quick Info!';
+$_['text_module']      = 'Moduulit';
+$_['text_success']     = 'Suorite: Asetukset on tallennettu onnistuneesti!';
 
 // Entry
-$_['entry_status']     = 'Status:';
+$_['entry_status']     = 'Tila:';
 
 // Error
-$_['error_permission'] = 'Warning: You do not have permission to modify module Quick Info!';
+$_['error_permission'] = 'Varoitus: Sinulla ei ole vaadittavia oikeuksia suorittaa toimintoa!';
 ?>

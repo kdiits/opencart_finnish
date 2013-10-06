@@ -4,7 +4,7 @@ $_['heading_title']      = 'Ovelle-paketti';
 
 // Text
 $_['text_shipping']      = 'Toimitustavat';
-$_['text_success']       = 'Toimitustavan Ovelle-paketti muokkaaminen suoritettu!';
+$_['text_success']       = 'Suorite: Asetukset on tallennettu onnistuneesti!';
 
 // Entry
 $_['entry_rate']         = 'Hinnat:<br /><span class="help">Esim: 5:10.00,7:12.00 Paino:Hinta,Paino:Hinta, jne..</span>';
@@ -14,5 +14,5 @@ $_['entry_status']       = 'Tila:';
 $_['entry_sort_order']   = 'J&auml;rjestysnumero:';
 
 // Error
-$_['error_permission']   = 'Varoitus: Sinulla ei ole oikeuksia toimitustavan Ovelle-paketti muokkaamiseen!';
+$_['error_permission']   = 'Varoitus: Sinulla ei ole vaadittavia oikeuksia suorittaa toimintoa!';
 ?>

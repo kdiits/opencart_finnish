@@ -3,8 +3,8 @@
 $_['heading_title']    = 'K&auml;sittelykulut';
 
 // Text
-$_['text_total']       = 'Tilausten laskukaavat';
-$_['text_success']     = 'Laskukaavan K&auml;sittelykulut muokkaaminen suoritettu!';
+$_['text_total']       = 'Maksusuorite';
+$_['text_success']     = 'Suorite: Asetukset on tallennettu onnistuneesti!';
 
 // Entry
 $_['entry_total']      = 'Tilauksen kokonaissumma:';
@@ -14,5 +14,5 @@ $_['entry_status']     = 'Tila:';
 $_['entry_sort_order'] = 'J&auml;rjestysnumero:';
 
 // Error
-$_['error_permission'] = 'Varoitus: Sinulla ei ole oikeuksia laskukaavan K&auml;sittelykulut muokkaamiseen!';
+$_['error_permission'] = 'Varoitus: Sinulla ei ole vaadittavia oikeuksia suorittaa toimintoa!';
 ?>

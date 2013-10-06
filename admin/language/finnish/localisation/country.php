@@ -3,7 +3,7 @@
 $_['heading_title']          = 'Maat';
 
 // Text
-$_['text_success']           = 'Maiden muokkaaminen tehty!';
+$_['text_success']           = 'Suorite: Maiden muokkaaminen tehty!';
 
 // Column
 $_['column_name']            = 'Maan nimi';
@@ -29,11 +29,11 @@ Alueen koodi = {zone_code}<br />
 Maa = {country}</span>';
 
 // Error
-$_['error_permission']       = 'Varoitus: Sinulla ei ole oikeuksia maiden muokkaamiseen!';
-$_['error_name']             = 'Maan nimen pit&auml;&auml; olla 3-128 merkki&auml; pitk&auml;!';
-$_['error_default']          = 'Varoitus: T&auml;t&auml; maata ei voi poistaa, koska se on asetettu verkkokaupan oletusmaaksi!';
-$_['error_store']            = 'Varoitus: T&auml;t&auml; maata ei voi poistaa, koska se on asetettu oletusmaaksi %s kauppaan!';
-$_['error_address']          = 'Varoitus: T&auml;t&auml; maata ei voi poistaa, koska se on liitetty %s osoitekirja-osoitteeseen!';
-$_['error_zone']             = 'Varoitus: T&auml;t&auml; maata ei voi poistaa, koska se on liitetty %s alueeseen!';
-$_['error_zone_to_geo_zone'] = 'Varoitus: T&auml;t&auml; maata ei voi poistaa, koska se on liitetty %s alueeseen maantieteellisiss&auml; alueissa!';
+$_['error_permission']       = 'Varoitus: Sinulla ei ole vaadittavia oikeuksia suorittaa toimintoa!';
+$_['error_name']             = 'Maan nimen on oltava 3-128 merkki&auml; pitk&auml;!';
+$_['error_default']          = 'Varoitus: Valittua maata ei voi poistaa, koska se on asetettu verkkokaupan oletusmaaksi!';
+$_['error_store']            = 'Varoitus: Valittua maata ei voi poistaa, koska se on asetettu oletusmaaksi %s kauppaan!';
+$_['error_address']          = 'Varoitus: Valittua maata ei voi poistaa, koska se on liitetty %s osoitekirja-osoitteeseen!';
+$_['error_zone']             = 'Varoitus: Valittua maata ei voi poistaa, koska se on liitetty %s alueeseen!';
+$_['error_zone_to_geo_zone'] = 'Varoitus: Valittua maata ei voi poistaa, koska se on liitetty %s alueeseen maantieteellisiss&auml; alueissa!';
 ?>

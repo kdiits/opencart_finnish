@@ -3,12 +3,12 @@
 $_['heading_title']       = 'Team Msn Messenger Chat';
 
 // Text
-$_['text_module']         = 'Modules';
-$_['text_success']        = 'Success: You have modified module Team Msn Messenger Chat!';
-$_['text_content_top']    = 'Content Top';
-$_['text_content_bottom'] = 'Content Bottom';
-$_['text_column_left']    = 'Column Left';
-$_['text_column_right']   = 'Column Right';
+$_['text_module']         = 'Moduulit';
+$_['text_success']        = 'Suorite: Asetukset on tallennettu onnistuneesti!';
+$_['text_content_top']    = 'Yl&auml;osa';
+$_['text_content_bottom'] = 'Alaosa';
+$_['text_column_left']    = 'Sarake (vasen)';
+$_['text_column_right']   = 'Sarake (oikea)';
 
 //tips
 $_['text_modules_tip']   = 'Here you can configure where the module should appear in the store.';
@@ -16,21 +16,21 @@ $_['text_accounts_tip']   = 'Here you configure the MSN accounts';
 $_['text_html_tip']   = '<span class="help">Paste in the textbox area the html, the system will filter the required data.</span>';
 
 // Entry
-$_['entry_layout']        = 'Layout:';
-$_['entry_position']      = 'Position:';
-$_['entry_status']        = 'Status:';
-$_['entry_sort_order']    = 'Sort Order:';
+$_['entry_layout']        = 'Teema:';
+$_['entry_position']      = 'Sijainti:';
+$_['entry_status']        = 'Tila:';
+$_['entry_sort_order']    = 'J&auml;rjestysnumero:';
 $_['entry_account_name']         = 'Account name:';
 $_['entry_account_html']         = 'Account HTML';
-$_['entry_status']        = 'Status:';
-$_['entry_sort_order']    = 'Sort Order:';
+$_['entry_status']        = 'Tila:';
+$_['entry_sort_order']    = 'J&auml;rjestysnumero:';
 
 //button
 $_['button_add_account']    = 'Add Account';
 
 
 // Error
-$_['error_permission']    = 'Warning: You do not have permission to modify module Team Msn Messenger Chat!';
+$_['error_permission']    = 'Varoitus: Sinulla ei ole vaadittavia oikeuksia suorittaa toimintoa!';
 $_['error_html']    = 'The system could not parse the html, try to copy again!'; 
 $_['error_name']    = 'The account must have a name!';
 $_['error_module']    = 'You must select at least one place where the module should appear in the store!'; 
